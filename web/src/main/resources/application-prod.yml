@@ -57,4 +57,4 @@ mongo:
 
 jiguang:
   appkey: 928c19fc99d990c03efee5ea
-  masterSecret: ${JIGUANG_SECRET}   #5c387bd797238429baba2fbd
+  masterSecret: ${JIGUANG_SECRET}
